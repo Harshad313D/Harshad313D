@@ -14,13 +14,13 @@
   <a href="https://www.linkedin.com/in/harshad-dongardive-054643204" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://leetcode.com/u/Hunky_harsh/" target="_blank">
+  <a href="https://leetcode.com/u/Hunky_harsh/" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40" />
   </a>
-  <a href="https://www.codechef.com/users/harsh303" target="_blank">
+  <a href="https://www.codechef.com/users/harsh303" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/harshad dongardive" target="_blank">
+  <a href="https://www.hackerrank.com/harshad dongardive" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
